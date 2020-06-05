@@ -4,7 +4,7 @@ OUTPUT ?= out/
 
 include rules.mk
 
-TARGETS = index.html
+TARGETS = index.html todo.html
 PREFIXED = $(patsubst %, $(OUTPUT)%, $(TARGETS))
 
 all: $(PREFIXED)
