@@ -11,6 +11,9 @@ to those peoples: Justice. True Justice. Righting the wrongs of the
 past by leveling the playing field and giving everyone in America an
 equal opportunity.
 
+The text of the pledge, below, should be considered to be a draft,
+proposed version.
+
 
 # The Pledge
 
