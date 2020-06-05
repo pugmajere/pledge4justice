@@ -1,9 +1,0 @@
-#!/bin/bash
-
-set -e
-
-git pull
-mkdir -p out
-make clean
-make all
-rsync -a --delete-after out/ /var/www/opsen/public_html/
