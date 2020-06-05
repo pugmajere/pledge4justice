@@ -1,0 +1,10 @@
+#!/bin/bash
+
+set -e
+
+git pull
+mkdir -p out
+make clean
+make all
+rsync -a --delete-after out/ /var/www/pledge4justice/public_html/
+rsync -a --delete-after out/ /var/www/pledgeforjustice/public_html/
