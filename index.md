@@ -34,6 +34,11 @@ I, NAME, do pledge to work towards the following goals and policies:
 1. Expect accountability of police by reducing the scope of "qualified
    immunity", or possibly eliminating it entirely.
    -  We should be holding police to a very high standard.
+1. Ensure that funding for public defenders is tied to funding for
+   District Attorneys.
+   -  Public defendeers should be able to spend as much time on a case
+      as the prosecuting attorney is able to. Clients should not meet
+      their defense attorney 5 minutes before they are due in court.
 
 ## Base standard of Living
 
